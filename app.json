@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "指厕针",
+    "slug": "finger-navi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "fingernavi",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fingernavi.app",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "需要获取你的位置来查找附近厕所",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "需要获取你的位置来查找附近厕所",
+        "LSApplicationQueriesSchemes": [
+          "iosamap",
+          "amap",
+          "baidumap",
+          "amapuri"
+        ]
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#007AFF"
+      },
+      "package": "com.fingernavi.app",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION"
+      ]
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "需要获取你的位置来查找附近厕所",
+          "locationWhenInUsePermission": "需要获取你的位置来查找附近厕所"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
