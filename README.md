@@ -20,10 +20,9 @@
 
 ## 📸 预览
 
-<!-- TODO: 替换为实际截图 -->
-| 首页地图 | 罗盘特写 | 搜索页 | 我的收藏 |
-|:---:|:---:|:---:|:---:|
-| ![home](assets/screenshots/home.png) | ![compass](assets/screenshots/compass.png) | ![search](assets/screenshots/search.png) | ![profile](assets/screenshots/profile.png) |
+| 首页地图 | 我的 | 搜索页 |
+|:---:|:---:|:---:|
+| ![d82c57f3dc12885a08216ecd10ed4fc5](/Users/lsk/Documents/program/zhicezhen/finger-navi/README.assets/d82c57f3dc12885a08216ecd10ed4fc5.jpg) | ![8af490615d8331713ad7040b73448309](/Users/lsk/Documents/program/zhicezhen/finger-navi/README.assets/8af490615d8331713ad7040b73448309.jpg) | ![b6b5dc80214ec5f48bc000f12d6fb2a2](/Users/lsk/Documents/program/zhicezhen/finger-navi/README.assets/b6b5dc80214ec5f48bc000f12d6fb2a2.jpg) |
 
 ---
 
@@ -44,7 +43,7 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/0ops/finger-navi.git
+git clone https://github.com/Nikodoc/finger-navi.git
 cd finger-navi
 
 # 2. 安装依赖
@@ -147,7 +146,7 @@ finger-navi/
 
 ## 📄 License
 
-MIT © 2025 [0ops](https://github.com/0ops)
+MIT © 2025 [Nikodoc](https://github.com/Nikodoc)
 
 ---
 
