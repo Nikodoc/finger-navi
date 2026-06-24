@@ -22,7 +22,7 @@
 
 | 首页地图 | 我的 | 搜索页 |
 |:---:|:---:|:---:|
-| ![d82c57f3dc12885a08216ecd10ed4fc5](/Users/lsk/Documents/program/zhicezhen/finger-navi/README.assets/d82c57f3dc12885a08216ecd10ed4fc5.jpg) | ![8af490615d8331713ad7040b73448309](/Users/lsk/Documents/program/zhicezhen/finger-navi/README.assets/8af490615d8331713ad7040b73448309.jpg) | ![b6b5dc80214ec5f48bc000f12d6fb2a2](/Users/lsk/Documents/program/zhicezhen/finger-navi/README.assets/b6b5dc80214ec5f48bc000f12d6fb2a2.jpg) |
+| ![首页地图](README.assets/d82c57f3dc12885a08216ecd10ed4fc5.jpg) | ![我的](README.assets/8af490615d8331713ad7040b73448309.jpg) | ![搜索页](README.assets/b6b5dc80214ec5f48bc000f12d6fb2a2.jpg) |
 
 ---
 
